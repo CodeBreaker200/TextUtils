@@ -20,4 +20,4 @@ Make sure you have Node.js and npm installed on your system.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/TextUtils.git
+   git clone https://github.com/CodeBreaker200/TextUtils.git
